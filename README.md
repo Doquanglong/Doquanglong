@@ -63,5 +63,4 @@ A unified Python pipeline for subdomain enumeration, live host detection, port s
 
 ### 📊 GitHub Stats
 
-![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doquanglong&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doquanglong&layout=compact&theme=tokyonight)
