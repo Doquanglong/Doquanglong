@@ -56,11 +56,8 @@ A Python detection-and-response tool that analyzes live network traffic to spot 
 🔍 **[File Type Identifier](https://github.com/Doquanglong/magic-number-file-identifier)**
 A Python tool that identifies a file's true type by parsing magic-number byte signatures, defeating extension-spoofing used to disguise malicious files — built with zero external dependencies.
 
-🌐 **Web Application Recon Automation**
+🌐 **[Web Application Recon Automation](https://github.com/Doquanglong/Recon-Shell-Script)**
 A unified Python pipeline for subdomain enumeration, live host detection, port scanning, and directory brute-forcing, integrating tools like Nmap and deduplicating results into structured outputs.
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doquanglong&layout=compact&theme=tokyonight)
